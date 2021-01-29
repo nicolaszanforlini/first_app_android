@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">model_view_controller</string>
+    <string name="txtTitleJouer">A toi de jouer bonne chance !</string>
+    <string name="txtLblTopGame">TOP GAME</string>
+    <string name="lblEditPseudo">Entre ton pseudo</string>
+    <string name="txtBtnPlay">Start</string>
+</resources>

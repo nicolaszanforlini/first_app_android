@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="myTheme.btnTitle" parent="myTheme">
+        <item name="android:colorButtonNormal">@color/grey</item>
+        <item name="colorButtonNormal">@color/grey</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonCornerRadius">9dp</item>
+    </style>
+
+    <style name="myTheme.btnReponse" parent="myTheme">
+        <item name="android:colorButtonNormal">@color/grey</item>
+        <item name="colorButtonNormal">@color/grey</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonCornerRadius">9dp</item>
+        <item name="android:width">200dp</item>
+        <item name="android:padding">20sp</item>
+    </style>
+
+</resources>
